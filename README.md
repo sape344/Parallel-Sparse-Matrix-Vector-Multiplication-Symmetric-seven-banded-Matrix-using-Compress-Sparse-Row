@@ -1,0 +1,2 @@
+# Parallel-Sparse-Matrix-Vector-Multiplication-Symmetric-seven-banded-Matrix-using-Compress-Sparse-Row
+The code is about The Parallel Processing and Symmetric seven-banded matrix sparse matrix multiplication.  The Parallel Processing increase performance if used correctly. Sparse matrix keep too memory usage however Sparse matrix process speed can be increased and memory usage can be decreased thanks to compress method. I selected Symmetric seven-banded matrix using Compress Sparse Row Format (CSR) storage scheme. 
